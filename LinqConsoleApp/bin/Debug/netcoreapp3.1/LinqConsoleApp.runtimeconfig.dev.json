@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\HubixQ\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\HubixQ\\.nuget\\packages"
+    ]
+  }
+}
